@@ -87,5 +87,6 @@ The simulation provides the following key outputs:
 
 2. **Waveforms**:
    - Visual representation of all signals, including `wr_ptr`, `rd_ptr`, `o_full`, `o_empty`, and `test_scenario`.
-
+     
+    ![Image alt](https://github.com/AV-BIAWOLF/fifo-synch/blob/main/doc/img/waveform.png)
 ---
